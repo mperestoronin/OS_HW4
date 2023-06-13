@@ -15,3 +15,5 @@ gardener.c - ./gardener<ip> <port> например `./gardener 127.0.0.1 8081`
 server.c - ./server <port> например `./server 8081`
 flowerbed.c - ./flowerbed <ip> <port> например `./flowerbed 127.0.0.1 8081`
 gardener.c - ./gardener <gardener_id><ip> <port> например `./gardener 1 127.0.0.1 8081` ***обращаю внимание, что тут добавляется параметр id.***
+  
+По всем вопросам пишите @Maxim_Perestoronin в телеграмм или mdperestoronin@edu.hse.ru на корпоротивную почту.
